@@ -1,3 +1,5 @@
 <resources>
-    <string name="app_name">Snackbarxample</string>
+    <string name="app_name">Photo Album</string>
+    <string name="save_button">Save Photo</string>
+    <string name="Snack_Text">Photo added</string>
 </resources>

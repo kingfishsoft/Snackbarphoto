@@ -1,4 +1,4 @@
-package com.example.snackbarxample
+package com.kingfishapps.photosnack
 
 import org.junit.Test
 
