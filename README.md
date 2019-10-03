@@ -1,4 +1,4 @@
-# Snackbarxample
+# Snackbarphoto
 Snackbar tutorial
 
 Android Studio version 3.4.2
